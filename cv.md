@@ -48,3 +48,10 @@ I'm just beginning my journey in frontend development. My current goal is to mas
 ## Education
 
 - **Homiel State College of Electrical Engineering (Technician-Technologist)**
+
+---
+
+## Languages
+
+- **Russian** - Native
+- **English** - A1
