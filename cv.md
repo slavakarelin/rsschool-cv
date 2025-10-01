@@ -13,3 +13,9 @@
 **Telegram:**[@SlavaKarelin](https://t.me/SlavaKarelin)
 
 **GitHub:** [@slavakarelin](https://github.com/slavakarelin)
+
+---
+
+## About Me:
+
+I'm just beginning my journey in frontend development. My current goal is to master foundational skills and gain invaluable experience that I can apply in real-world projects in the future.
