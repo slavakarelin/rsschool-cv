@@ -19,3 +19,26 @@
 ## About Me:
 
 I'm just beginning my journey in frontend development. My current goal is to master foundational skills and gain invaluable experience that I can apply in real-world projects in the future.
+
+---
+
+## Skills
+
+- **Git**
+- **Markdown**
+- **HTML**
+- **CSS**
+
+---
+
+## Code example
+
+ <meta charset="UTF-8"> 
+   <title>First page</title>
+   <style>
+     h1 {
+      color: purple; /* Делает заголовок фиолетовым */
+     }
+     p {
+       font-size: 22px; /* Устанавливает размер шрифта абзаца */
+     }
