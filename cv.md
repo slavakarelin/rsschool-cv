@@ -42,3 +42,9 @@ I'm just beginning my journey in frontend development. My current goal is to mas
      p {
        font-size: 22px; /* Устанавливает размер шрифта абзаца */
      }
+
+---
+
+## Education
+
+- **Homiel State College of Electrical Engineering (Technician-Technologist)**
