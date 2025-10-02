@@ -33,7 +33,8 @@ I'm just beginning my journey in frontend development. My current goal is to mas
 
 ## Code example
 
- <meta charset="UTF-8"> 
+```
+ <meta charset="UTF-8">
    <title>First page</title>
    <style>
      h1 {
@@ -42,6 +43,8 @@ I'm just beginning my journey in frontend development. My current goal is to mas
      p {
        font-size: 22px; /* Устанавливает размер шрифта абзаца */
      }
+
+```
 
 ---
 
